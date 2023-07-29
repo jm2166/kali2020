@@ -1,3 +1,4 @@
+# bancon decode
 CODE_TABLE = { #培根字典
     'aaaaa':'a','aaaab':'b','aaaba':'c','aaabb':'d','aabaa':'e','aabab':'f','aabba':'g',
     'aabbb':'h','abaaa':'i','abaab':'j','ababa':'k','ababb':'l','abbaa':'m','abbab':'n',
